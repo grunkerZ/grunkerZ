@@ -1,4 +1,6 @@
 ## Hi there 👋
+I am an NJIT undergraduate student
+I am currently working on a 2D game in the gameframework2d repository
 
 <!--
 **grunkerZ/grunkerZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
