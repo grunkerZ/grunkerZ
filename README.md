@@ -19,5 +19,5 @@ quiannaleftwich.github.io - my better half's portfolio website | finished
 
 Quake4-Source - Cooking Themed Quake 4 Mod | class project | my first mod | unfinished
 
-quake2-rerelease - Backrooms Themed Quake 2 Mod | class project | unfinished
+quake2RE - Backrooms Themed Quake 2 Mod | class project | unfinished
 
