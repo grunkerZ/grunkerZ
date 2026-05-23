@@ -1,6 +1,15 @@
 ## Hi there 👋
 I am an NJIT undergraduate student
-I am currently working on a 2D game in the gameframework2d repository
+I enjoy creating games, websites, and applications.
+
+Important Repositories
+gameframework2d - 2D Action Platformer HELLSENT | class project | my first 2d game | in progress | hiatus
+quiannaleftwich.github.io - my better half's portfolio website | finished
+Quake4-Source - Cooking Themed Quake 4 Mod | class project | my first mod | unfinished
+quake2-rerelease - Backrooms Themed Quake 2 Mod | class project | unfinished
+
+Currently Working On:
+Nothing :(
 
 <!--
 **grunkerZ/grunkerZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
