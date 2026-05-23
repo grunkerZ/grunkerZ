@@ -3,13 +3,15 @@ I am an NJIT undergraduate student
 
 I enjoy creating games, websites, and applications.
 
+<br>
 
 Currently Working On:
 
 Nothing :(
 
+<br>
 
-Notable Repositories
+Notable Repositories:
 
 gameframework2d - 2D Action Platformer HELLSENT | class project | my first 2d game | in progress | hiatus
 
