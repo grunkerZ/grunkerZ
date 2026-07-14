@@ -25,7 +25,7 @@ I love working with game engines, graphics, and making games from scratch.
 ### Find Me:
 * **GitHub:** [@grunkerZ](https://github.com/grunkerZ)
 * **Email:** [matthewportilla44@gmail.com](mailto:matthewportilla44@gmail.com)
-* **LinkedIn:** [Matthew Portilla](www.linkedin.com/in/matthew-portilla)
+* **LinkedIn:** [Matthew Portilla](https://www.linkedin.com/in/matthew-portilla/)
 
 ---
 *Check out my repositories to see what I've been working on*
