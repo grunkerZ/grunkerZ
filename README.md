@@ -1,23 +1,32 @@
 ## Hi there 👋
-I am an NJIT undergraduate student
-
-I enjoy creating games, websites, and applications.
-
+I am a Computer Science Major at NJIT.
 <br>
+I am a very passionate developer with plenty of experience in **Systems Programming**, **Game Development**, and **Open Source Contributions**.
+I like working with low level code, working with and on game engines, and challenging myself with architectural problems within large codebases.
 
-Currently Working On:
+### Currently Working On:
+* **[AzerothCore](https://github.com/grunkerZ/azerothcore-wotlk):** Contributing C++ core architectural features (Map Partitioning and Multi Threaded Optimizations) to an extremely popular open source MMO emulator.
+*  **[Fluxer](https://github.com/grunkerZ/fluxer):** Contributing to a massive, free open source VoIP & instant messaging app built with Rust and React.
 
-Nothing :(
+### Game Development:
+I love working with game engines, graphics, and making games from scratch.
+* **[3dgame](https://github.com/grunkerZ/3dgame):** My first 3D game.
+* **Quake Modding** I have done extensive work with id Tech engines, creating a Backrooms themed mod for the Quake 2 Rerelease ([quake2RE](https://github.com/grunkerZ/quake2RE)), and modifying the Quake 4 source code.
 
-<br>
+### Tech:
+* **Languages** C/C++, Rust, JavaScript/TypeScript, HTML/CSS, Java, Python
+* **Interests** Networked Games, Game Engine Architecture, Database Architecture, Low Level Code
 
-Notable Repositories:
+### Other Projects:
+* **[quiannaleftwich.github.io](https://github.com/grunkerZ/quiannaleftwich.github.io):** Designed and deployed a custom portfolio website for a visual artist.
+* **[MakeNJIT2026](https://github.com/grunkerZ/makeNJIT2026):** A C++ project designed to take inputs, and send them through an ESP32 to other ESP32s. Made for the NJIT 2026 Hackathon.
+* **[backroomsBot](https://github.com/grunkerZ/backroomsBot):** A custom, interactive, backrooms themed discord bot.
 
-gameframework2d - 2D Action Platformer HELLSENT&emsp;|&emsp;class project&emsp;|&emsp;my first 2d game&emsp;|&emsp;in progress&emsp;|&emsp;hiatus
+### Find Me:
+* **GitHub:** [@grunkerZ](https://github.com/grunkerZ)
+* **Email:** [matthewportilla44@gmail.com](mailto:matthewportilla44@gmail.com)
+* **LinkedIn:** [Matthew Portilla](www.linkedin.com/in/matthew-portilla)
 
-quiannaleftwich.github.io - my better half's portfolio website&emsp;|&emsp;finished
-
-Quake4-Source - Cooking Themed Quake 4 Mod&emsp;|&emsp;class project&emsp;|&emsp;my first mod&emsp;|&emsp;unfinished
-
-quake2RE - Backrooms Themed Quake 2 Mod&emsp;|&emsp;class project&emsp;|&emsp;unfinished
+---
+*Check out my repositories to see what I've been working on*
 
