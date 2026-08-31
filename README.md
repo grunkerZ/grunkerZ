@@ -6,11 +6,9 @@ I like working with low level code, working with and on game engines, and challe
 
 ### Currently Working On:
 * **[AzerothCore](https://github.com/grunkerZ/azerothcore-wotlk):** Contributing C++ core architectural features (Map Partitioning and Multi Threaded Optimizations) to an extremely popular open source MMO emulator.
-*  **[Fluxer](https://github.com/grunkerZ/fluxer):** Contributing to a massive, free open source VoIP & instant messaging app built with Rust and React.
 
 ### Game Development:
 I love working with game engines, graphics, and making games from scratch.
-* **[3dgame](https://github.com/grunkerZ/3dgame):** My first 3D game.
 * **Quake Modding** I have done extensive work with id Tech engines, creating a Backrooms themed mod for the Quake 2 Rerelease ([quake2RE](https://github.com/grunkerZ/quake2RE)), and modifying the Quake 4 source code.
 
 ### Tech:
