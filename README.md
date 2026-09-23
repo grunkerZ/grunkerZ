@@ -5,7 +5,7 @@ I am a very passionate developer with plenty of experience in **Systems Programm
 I like working with low level code, working with and on game engines, and challenging myself with architectural problems within large codebases.
 
 ### Currently Working On:
-* **[AzerothCore](https://github.com/grunkerZ/azerothcore-wotlk):** Contributing C++ core architectural features (Map Partitioning and Multi Threaded Optimizations) to an extremely popular open source MMO emulator.
+* **[Data Oriented 2D Game Engine](https://github.com/grunkerZ/survival-engine):** Exploring Data Driven designs, and C++ optimization for mass amounts of entities.
 
 ### Game Development:
 I love working with game engines, graphics, and making games from scratch.
